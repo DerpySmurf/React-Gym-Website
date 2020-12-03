@@ -11,13 +11,13 @@ const Button = ({ text }) => (
 const styles = css`
   text-decoration: none;
   display: inline-block;
-  background: #ed563b;
+  background: #b19cd9;
   color: #fff;
   font-size: 14px;
   padding: 12px 14px;
   transition: background 500ms ease-in-out;
   &:hover {
-    background: #f9735b;
+    background:#6a44b2;
   }
 `;
 

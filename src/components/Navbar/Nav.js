@@ -27,9 +27,9 @@ const styles = css`
   width: 100%;
   position: absolute;
   top: 0;
-  padding: 20px 0;
-  background: rgba(250, 250, 250, 0.1);
-  z-index: 20;
+  padding: 0px 0;
+  background: rgb(26, 26, 26);
+  z-index: 10;
   .container {
     display: flex;
     align-items: center;
@@ -41,7 +41,7 @@ const styles = css`
     }
   }
   @media (max-width: 1000px) {
-    background: rgba(35, 45, 57, 0.8);
+    background: rgb(26, 26, 26);
     .container {
       flex-wrap: wrap;
       #burgerMenu {

@@ -10,7 +10,7 @@ const styles = css`
   right: 0;
   bottom: 0;
   left: 0;
-  background: rgba(35, 45, 57, 0.8);
+  background: rgba(0,0,0,0.8);
 `;
 
 export default Overlay;
